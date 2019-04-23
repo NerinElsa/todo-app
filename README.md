@@ -28,6 +28,10 @@ On opening the web page, the cursor will be blinking where the text field is pre
 ### 2. Delete NOTE
 To delete a note simply 'CLICK' the note which you want to delete among the list with your pointer and it is gone. Couldnt be simpler !
 
+### NOTE 
+Since service worker is not yet activated, the notes added will be lost on browser closure. This will be soon fixed. 
+
+
 
 # DEFAULT CREATE REACT APP instructions ****BELOW***
 
