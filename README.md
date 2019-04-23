@@ -1,4 +1,4 @@
-#REACT To-Do App
+# REACT To-Do App
 This is a simple react app which allows you to create 'To-Do' notes and delete a note easily by clicking it again. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. In command prompt, cd into the cloned project folder.<br>
 For eg. `C:\\Users\USERNAME>cd todo-app`
 
-2. Start local development server at port 3000 bt the command<br>
+2. Start local development server at port 3000 with the command<br>
 `npm start`
 
 3. To view the 'todo-app' in browser, visit<br>
@@ -21,11 +21,11 @@ You will also see any lint errors in the console.
 
 This is a very simple app to add 'To-Do' notes which we otherwise jot down on paper pieces daily. So it has only two functionalities. 'Add' notes and 'delete' notes. Simple as that. 
 
-###1. Add NOTE
+### 1. Add NOTE
 On opening the web page, the cursor will be blinking where the text field is present. You can write your multiline note there. Once finished writing click the 'PLUS' button to add the note. Simple !
 
 
-###2. Delete NOTE
+### 2. Delete NOTE
 To delete a note simply 'CLICK' the note which you want to delete among the list with your pointer and it is gone. Couldnt be simpler !
 
 
